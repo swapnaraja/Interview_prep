@@ -1,0 +1,22 @@
+About sqoop incremental modes
+sqoop import file format
+ORC file format
+Dag on Tez
+Map join and SMB join
+How do you take care of shuffling in SMB join
+Hcatalog
+how do you load file into hive
+analytic functions
+upserts in hive
+do we need to have group by with having 
+get the list of names starting with letter a in hive
+get the list of file names starting with name
+how to access command line arguments inside shell script
+how to remove duplicates of words in unix file
+date functions in hive convert one date format to other type
+convert UTC to PST including day light
+crontab
+dynamic partitioning properties
+memory settings in hive
+parquet format
+metastore in hive
